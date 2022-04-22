@@ -4,7 +4,7 @@
 
 - 🔭 Eu sou estudante de dev Web FullStack na Trybe.
 - 🌱 No momento estou entrando no módulo de Front-end 
-- 📫 Siga me no instagram : @jornadaddev...
+- 📫 Siga me no instagram : @vivi.code
 - ⚡ Fun fact: I love Css
 
 <div align="center">
