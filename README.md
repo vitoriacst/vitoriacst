@@ -1,5 +1,14 @@
-### Olá Colega , eu sou a vitória Holanda 👋
+### Olá Colega , eu sou a vitória Holanda , mas pode me chamar de vivi 👋
+ deixa eu me apresentar💖
+ sou uma sonhadora que está iniciando a sua jornada na área  de desenvolvimento web Fullstack!
 
+Me chamo vitoria,atualmente tenho 19 anos,sou nordestina e atualmente moro em Fortaleza no ceará 
+🌵, decidi entrar na Trybe no ano de 2021 no mês  de novembro, durante a minha graduação em Análise e desenvolvimento de sistemas .
+decidi durante essa jornada, compartilhar um pouco da minha trajetória em um canal do youtube , que já vem ajudando muitas pessoas.
+sempre fui muito  curiosa e criativa, então a programação se encaixou perfeitamente no que eu queria para o resto da minha vida.
+gosto muito de inspirar pessoas a seguirem os seus sonhos e atingirem suas metas !
+
+sou apaixonada por tecnologia e pelo o mundo dos games ,tendo uma grande lista de favoritos!🎮
 
 
 - 🔭 Eu sou estudante de dev Web FullStack na Trybe.
