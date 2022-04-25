@@ -17,9 +17,9 @@ sou apaixonada por tecnologia e pelo o mundo dos games ,tendo uma grande lista d
 - ⚡ amo inovar com usando Programação
 
 <div>
-  <a href="https://github.com/vitoriacst
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriacst&show_icons=true&theme=material-palenight%22/%3E
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriacst&show_icons=true&theme=material-palenight%22/%3E
+  <a href="https://github.com/vitoriacst"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=vitoriacst&show_icons=true&theme=material-palenight%22"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriacst&show_icons=true&theme=material-palenight%22"/>
 </div>
   
 <div dir:"auto"><br>
