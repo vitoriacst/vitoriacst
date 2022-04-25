@@ -16,7 +16,7 @@ sou apaixonada por tecnologia e pelo o mundo dos games ,tendo uma grande lista d
 - 📫 Siga me no instagram : @vivi.code
 - ⚡ amo inovar com usando Programação
 
-<div display:"flex">
+<div display:"flex" justify-content:>
   <a href="https://github.com/vitoriacst">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriacst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <br>
