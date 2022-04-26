@@ -16,12 +16,12 @@ sou apaixonada por tecnologia e pelo o mundo dos games ,tendo uma grande lista d
 - 📫 Siga me no instagram : @vivi.code
 - ⚡ amo inovar com usando Programação
 
+<img src="https://user-images.githubusercontent.com/86388276/165317951-b46cba2e-9c8f-4158-a9eb-8f63c52c69e3.png"/>
 
   <a href="https://github.com/vitoriacst"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=vitoriacst&show_icons=true&theme=material-palenight%22"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriacst&show_icons=true&theme=material-palenight%22"/>
-</div>
-<img src="https://user-images.githubusercontent.com/86388276/165133333-6744adbd-088d-42c1-ab7a-d9ab97c00e34.svg"/>
+
   
 <div dir:"auto"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
