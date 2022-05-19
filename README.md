@@ -1,29 +1,26 @@
-### Olá Colega , eu sou a vitória Holanda , mas pode me chamar de vivi 👋
- deixa eu me apresentar💖
+##Oii me chamo vitoria , mas pode me chamar de vivi
+ deixa eu me apresentar
  sou uma sonhadora que está iniciando a sua jornada na área  de desenvolvimento web Fullstack!
-
-Me chamo vitoria,atualmente tenho 19 anos,sou nordestina e atualmente moro em Fortaleza no ceará 
-🌵, decidi entrar na Trybe no ano de 2021 no mês  de novembro, durante a minha graduação em Análise e desenvolvimento de sistemas .
+Me chamo vitoria,atualmente tenho 19 anos,sou nordestina e atualmente moro em Fortaleza no ceará  
+,decidi entrar na Trybe no ano de 2021 no mês  de novembro, durante a minha graduação em Análise e desenvolvimento de sistemas .
 decidi durante essa jornada, compartilhar um pouco da minha trajetória em um canal do youtube , que já vem ajudando muitas pessoas.
-sempre fui muito  curiosa e criativa, então a programação se encaixou perfeitamente no que eu queria para o resto da minha vida.
+sempre fui muito  curiosa e criativa,
+ então a programação se encaixou perfeitamente no que eu queria para o resto da minha vida.
 gosto muito de inspirar pessoas a seguirem os seus sonhos e atingirem suas metas !
-
 sou apaixonada por tecnologia e pelo o mundo dos games ,tendo uma grande lista de favoritos!🎮
-
 
 - 🔭 Eu sou estudante de dev Web FullStack na Trybe.
 - 🌱 No momento estou entrando no módulo de Front-end 
 - 📫 Siga me no instagram : @vivi.code
 - ⚡ amo inovar com usando Programação
-
-<img src="https://user-images.githubusercontent.com/86388276/165317951-b46cba2e-9c8f-4158-a9eb-8f63c52c69e3.png"/>
-
+ <img src="https://user-images.githubusercontent.com/86388276/165317951-b46cba2e-9c8f-4158-a9eb-8f63c52c69e3.png"/>
   <a href="https://github.com/vitoriacst"/>
  <div align="center">
   <a href="https://github.com/vitoriacst">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriacst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriacst&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -41,5 +38,12 @@ sou apaixonada por tecnologia e pelo o mundo dos games ,tendo uma grande lista d
   <a href="https://www.linkedin.com/in/vit%C3%B3ria-cstholanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+ <h1 display:flex>
+ <h1>meus projetos</h1>
+  
+ ![mobile (5)](https://user-images.githubusercontent.com/86388276/169187740-4dc65aea-6220-442f-9775-c607f246bcc2.png)
+  
+ </div>
+
 </div>
+  
