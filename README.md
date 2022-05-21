@@ -17,7 +17,20 @@ const aboutMe = {
   level: 'Junior',
   
   programming languages: ['JavaScript','python'],
-  tools: ['Docker','React-Native','Tailwind css', 'Jest', 'React', 'RTL', 'Redux','Context api', 'Git','HTML 5','CSS 3','FIGMA'],
+  tools: [
+      'Docker',
+      'React-Native',
+      'Tailwind css',
+      'Jest',
+      'React',
+      'RTL',
+      'Redux',
+      'Context api',
+      'Git',
+      'HTML 5',
+      'CSS 3',
+      'FIGMA'
+  ],
   softSkills: [
     'creativity',
     'communication',
@@ -27,7 +40,7 @@ const aboutMe = {
     'organization',
   ]
 };
-const contatcMe = () => ({
+const contactMe = () => ({
   Linkedin: 'https://www.linkedin.com/in/vit%C3%B3ria-cstholanda/',
 });
 ```
