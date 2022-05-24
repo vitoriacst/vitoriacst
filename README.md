@@ -41,7 +41,8 @@ const aboutMe = {
   ]
 };
 const contactMe = () => ({
-  Linkedin: 'https://www.linkedin.com/in/vit%C3%B3ria-cstholanda/',
+  Linkedin: 'https://www.linkedin.com/in/vit%C3%B3ria-cstholanda/'
+  E-mail:vitoria.cst.contato@gmail.com
 });
 ```
 
