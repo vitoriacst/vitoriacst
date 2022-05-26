@@ -7,7 +7,7 @@ sempre fui muito  curiosa e criativa, então a programação se encaixou perfeit
 gosto muito de inspirar pessoas a seguirem os seus sonhos e atingirem suas metas !
 
 sou apaixonada por tecnologia e pelo o mundo dos games ,tendo uma grande lista de favoritos!🎮
-<img align="left" width="200px" src="https://i.pinimg.com/originals/9b/82/b9/9b82b9a6b3afa7c934152d945a478132.gif"/>
+
 
 ```JavaScript
 const aboutMe = {
