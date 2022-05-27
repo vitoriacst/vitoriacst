@@ -85,10 +85,5 @@ const contactMe = () => ({
   <img src="https://user-images.githubusercontent.com/86388276/169459372-b0290f08-3f4f-4419-9d74-6cf368cd85d2.png">
    <img src="https://user-images.githubusercontent.com/86388276/169187740-4dc65aea-6220-442f-9775-c607f246bcc2.png">
   <img src="https://user-images.githubusercontent.com/86388276/169193786-15faa4cf-b314-423c-b98c-5ca256d49180.png">
-   
-   
-
-
-
 </div>
   
