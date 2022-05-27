@@ -1,5 +1,6 @@
 
 
+
 Me chamo vitoria,atualmente tenho 19 anos,sou nordestina e atualmente moro em Fortaleza no ceará 
 , decidi entrar na Trybe no ano de 2021 no mês  de novembro, durante a minha graduação em Análise e desenvolvimento de sistemas .
 decidi durante essa jornada, compartilhar um pouco da minha trajetória em um canal do youtube , que já vem ajudando muitas pessoas.
@@ -86,6 +87,7 @@ const contactMe = () => ({
    <img src="https://user-images.githubusercontent.com/86388276/169187740-4dc65aea-6220-442f-9775-c607f246bcc2.png">
   <img src="https://user-images.githubusercontent.com/86388276/169193786-15faa4cf-b314-423c-b98c-5ca256d49180.png">
   <img src="https://user-images.githubusercontent.com/86388276/170621459-7f4433e8-df2a-4f10-b15d-5f5569039272.png">
+   <img src"https://user-images.githubusercontent.com/86388276/170621686-158e46eb-ed76-4b67-946e-f96258d41a40.png">
 
 </div>
   
