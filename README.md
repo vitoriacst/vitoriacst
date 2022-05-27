@@ -83,11 +83,10 @@ const contactMe = () => ({
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  <h1 display:flex>
  <h1>My Projects</h1>
-  <img src="https://user-images.githubusercontent.com/86388276/169459372-b0290f08-3f4f-4419-9d74-6cf368cd85d2.png">
+<!--   <img src="https://user-images.githubusercontent.com/86388276/169459372-b0290f08-3f4f-4419-9d74-6cf368cd85d2.png">
    <img src="https://user-images.githubusercontent.com/86388276/169187740-4dc65aea-6220-442f-9775-c607f246bcc2.png">
-  <img src="https://user-images.githubusercontent.com/86388276/169193786-15faa4cf-b314-423c-b98c-5ca256d49180.png">
-  <img src="https://user-images.githubusercontent.com/86388276/170621459-7f4433e8-df2a-4f10-b15d-5f5569039272.png">
-   <img src"https://user-images.githubusercontent.com/86388276/170621686-158e46eb-ed76-4b67-946e-f96258d41a40.png">
+  <img src="https://user-images.githubusercontent.com/86388276/169193786-15faa4cf-b314-423c-b98c-5ca256d49180.png"> -->
+   <img src="https://user-images.githubusercontent.com/86388276/170621686-158e46eb-ed76-4b67-946e-f96258d41a40.png">
 
 </div>
   
