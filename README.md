@@ -51,7 +51,10 @@ const contactMe = () => ({
  <div align="center">
   <a href="https://github.com/vitoriacst">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriacst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriacst&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriacst&theme=tokyonight" alt="vitoriacst" /></p>
 </div>
 
 ### technologies I learned 💻
@@ -89,5 +92,6 @@ const contactMe = () => ({
    <img src="https://user-images.githubusercontent.com/86388276/170621686-158e46eb-ed76-4b67-946e-f96258d41a40.png">
   <img src="https://user-images.githubusercontent.com/86388276/170898495-94781cd6-0e8a-4fbe-93d4-6b45703f16f8.png">
 </div>
+
 
   
