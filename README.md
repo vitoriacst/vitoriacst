@@ -83,7 +83,7 @@ const contactMe = () => ({
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vit%C3%B3ria-cstholanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
  <h1 display:flex>
  <h1>My Projects</h1>
 <!--   <img src="https://user-images.githubusercontent.com/86388276/169459372-b0290f08-3f4f-4419-9d74-6cf368cd85d2.png">
