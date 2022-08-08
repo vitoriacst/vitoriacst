@@ -1,11 +1,11 @@
 
-
-Me chamo vitoria,atualmente tenho 19 anos,sou nordestina e atualmente moro em Fortaleza no ceará 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ED0DD9&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Vitória!;Seja+muito+bem-vindo(a)+por+aqui.)](https://git.io/typing-svg)
+## 👩‍🚀 Minha Jornada
+Sou nordestina e atualmente moro em Fortaleza no ceará 
 , decidi entrar na Trybe no ano de 2021 no mês  de novembro, durante a minha graduação em Análise e desenvolvimento de sistemas .
 decidi durante essa jornada, compartilhar um pouco da minha trajetória em um canal do youtube , que já vem ajudando muitas pessoas.
 sempre fui muito  curiosa e criativa, então a programação se encaixou perfeitamente no que eu queria para o resto da minha vida.
 gosto muito de inspirar pessoas a seguirem os seus sonhos e atingirem suas metas !
-
 sou apaixonada por tecnologia e pelo o mundo dos games ,tendo uma grande lista de favoritos!🎮
 
 
@@ -54,7 +54,7 @@ const contactMe = () => ({
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriacst&theme=tokyonight" alt="vitoriacst" /></p>
 </div>
 
-## Tecnologias que eu aprendi 
+## 👩‍💻 Tecnologias que eu aprendi 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -88,7 +88,7 @@ const contactMe = () => ({
  
  
  <h1 display:flex>
- <h1>My Projects</h1>
+ <h1>🏗️ Meus Projetos</h1>
 <!--   <img src="https://user-images.githubusercontent.com/86388276/169459372-b0290f08-3f4f-4419-9d74-6cf368cd85d2.png">
    <img src="https://user-images.githubusercontent.com/86388276/169187740-4dc65aea-6220-442f-9775-c607f246bcc2.png">
   <img src="https://user-images.githubusercontent.com/86388276/169193786-15faa4cf-b314-423c-b98c-5ca256d49180.png"> -->
