@@ -19,7 +19,7 @@ const aboutMe = {
   level: 'Junior',
   
   programming languages: ['JavaScript','python'],
-  tools: [
+  FrontEndTools: [
       'Docker',
       'React-Native',
       'Tailwind css',
@@ -33,6 +33,14 @@ const aboutMe = {
       'CSS 3',
       'FIGMA'
   ],
+  BackEndTools = [
+      'Docker',
+      'Node js',
+      'Express',
+      'Testes',
+      'Sequelize',
+      'Mysql'
+  ]
   softSkills: [
     'creativity',
     'communication',
