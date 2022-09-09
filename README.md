@@ -95,14 +95,7 @@ const contactMe = () => ({
   <a href="https://www.linkedin.com/in/vit%C3%B3ria-cstholanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
- <h1 display:flex>
- <h1>🏗️ Meus Projetos</h1>
-<!--   <img src="https://user-images.githubusercontent.com/86388276/169459372-b0290f08-3f4f-4419-9d74-6cf368cd85d2.png">
-   <img src="https://user-images.githubusercontent.com/86388276/169187740-4dc65aea-6220-442f-9775-c607f246bcc2.png">
-  <img src="https://user-images.githubusercontent.com/86388276/169193786-15faa4cf-b314-423c-b98c-5ca256d49180.png"> -->
-   <img src="https://user-images.githubusercontent.com/86388276/170621686-158e46eb-ed76-4b67-946e-f96258d41a40.png">
-  <img src="https://user-images.githubusercontent.com/86388276/170898495-94781cd6-0e8a-4fbe-93d4-6b45703f16f8.png">
-</div>
+
 
 
   
