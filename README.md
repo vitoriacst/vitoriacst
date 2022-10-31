@@ -2,13 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Vitória!;Seja+muito+bem-vindo(a)+por+aqui.)](https://git.io/typing-svg)
 ![Vitória](https://user-images.githubusercontent.com/86388276/184025229-e2545559-2395-4e39-a72f-28572e1e779f.png)
 
-## 👩‍🚀 Minha Jornada
-Decidi entrar na Trybe no ano de 2021 no mês  de novembro, durante a minha graduação em Análise e desenvolvimento de sistemas .
-decidi durante essa jornada, compartilhar um pouco da minha trajetória em um canal do youtube , que já vem ajudando muitas pessoas.
-sempre fui muito  curiosa e criativa, então a programação se encaixou perfeitamente no que eu queria para o resto da minha vida.
-gosto muito de inspirar pessoas a seguirem os seus sonhos e atingirem suas metas !
-sou apaixonada por tecnologia e pelo o mundo dos games ,tendo uma grande lista de favoritos!🎮
-
+## 👩‍🚀 My Journey
+I decided to join Trybe in the year 2021 in the month of November, during my operation in Systems Analysis and Development.
+deciding during this journey, to share a little of my trajectory on youtube, which has already been helping many people.
+I've always been very curious and creative, so the schedule fell in line with what I wanted for the rest of my life.
+I really like inspiring people to follow their dreams and achieve their goals!
+I'm for technology and the world of games, having a great list of favorites!🎮
 
 ```JavaScript
 const aboutMe = {
@@ -65,7 +64,7 @@ const contactMe = () => ({
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriacst&theme=tokyonight" alt="vitoriacst" /></p>
 </div>
 
-## 👩‍💻 Tecnologias que eu aprendi 
+## 👩‍💻 technology I learned
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
