@@ -12,8 +12,8 @@ I'm for technology and the world of games, having a great list of favorites!🎮
 ```JavaScript
 const aboutMe = {
   name: 'Vitoria Holanda',
-  age: '19 years old';
-  about:'I am a FullStack Web dev student at Trybe'
+  age: '20 years old';
+  about:'I am a Mid-level software Engineer'
   level: 'Junior',
   
   programming languages: ['JavaScript','python'],
