@@ -1,20 +1,19 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Vitória!;Seja+muito+bem-vindo(a)+por+aqui.)](https://git.io/typing-svg)
-![Vitória](https://user-images.githubusercontent.com/86388276/184025229-e2545559-2395-4e39-a72f-28572e1e779f.png)
 
-## 👩‍🚀 My Journey
+![Jornada da dev(1)](https://github.com/vitoriacst/vitoriacst/assets/86388276/2551b6dc-e10f-4d27-922c-52034cea4d17)
+
+## 🧑🏾‍🚀 My Journey
 I decided to join Trybe in the year 2021 in the month of November, during my operation in Systems Analysis and Development.
 deciding during this journey, to share a little of my trajectory on youtube, which has already been helping many people.
 I've always been very curious and creative, so the schedule fell in line with what I wanted for the rest of my life.
 I really like inspiring people to follow their dreams and achieve their goals!
-I'm for technology and the world of games, having a great list of favorites!🎮
-
+I'm for technology and the world of games, having a great list of favorites!
 ```JavaScript
 const aboutMe = {
-  name: 'Vitoria Holanda',
-  age: '20 years old';
+  name: 'Vitória Holanda',
+  age: '21 years old';
   about:'I am a Mid-level software Engineer'
-  level: 'Junior',
+  level: 'Mid-level',
   
   programming languages: ['JavaScript','python'],
   FrontEndTools: [
@@ -56,15 +55,20 @@ const contactMe = () => ({
 });
 ```
 
+
+  <a href="https://www.linkedin.com/in/vit%C3%B3ria-cstholanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
   <a href="https://github.com/vitoriacst"/>
  <div align="center">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriacst&layout=compact&langs_count=7&theme=tokyonight"/>
   <a href="https://github.com/vitoriacst">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriacst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriacst&layout=compact&langs_count=7&theme=tokyonight"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriacst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriacst&theme=tokyonight" alt="vitoriacst" /></p>
 </div>
 
-## 👩‍💻 technology I learned
+## technology I learned
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -90,9 +94,7 @@ const contactMe = () => ({
 </div>
   
 
-  <a href="https://www.youtube.com/channel/UC93uiQ9wjR8R9OZgKTfCnxg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vit%C3%B3ria-cstholanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
  
  
 
