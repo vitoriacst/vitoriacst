@@ -56,17 +56,7 @@ const contactMe = () => ({
 ```
 
 
-  <a href="https://www.linkedin.com/in/vit%C3%B3ria-cstholanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <a href="https://github.com/vitoriacst"/>
- <div align="center">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriacst&layout=compact&langs_count=7&theme=tokyonight"/>
-  <a href="https://github.com/vitoriacst">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriacst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriacst&theme=tokyonight" alt="vitoriacst" /></p>
-</div>
 
 ## technology I learned
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
