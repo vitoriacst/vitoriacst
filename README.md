@@ -9,8 +9,6 @@ I've always been very curious and creative, so the schedule fell in line with wh
 I really like inspiring people to follow their dreams and achieve their goals!
 I'm for technology and the world of games, having a great list of favorites!
 
-## 📝 About:
-I'm a Full Stack Developer with over 2 years of experience building responsive, scalable, and high-performance web applications from prototype to production.
 
 💻 Technical Skills:
 
