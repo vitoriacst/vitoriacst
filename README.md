@@ -8,55 +8,23 @@ deciding during this journey, to share a little of my trajectory on youtube, whi
 I've always been very curious and creative, so the schedule fell in line with what I wanted for the rest of my life.
 I really like inspiring people to follow their dreams and achieve their goals!
 I'm for technology and the world of games, having a great list of favorites!
-```JavaScript
-const aboutMe = {
-  name: 'Vitória Holanda',
-  age: '21 years old';
-  about:'I am a Mid-level software Engineer'
-  level: 'Mid-level',
-  
-  programming languages: ['JavaScript','python'],
-  FrontEndTools: [
-      'Docker',
-      'React-Native',
-      'Tailwind css',
-      'Jest',
-      'React',
-      'RTL',
-      'Redux',
-      'Context api',
-      'Git',
-      'HTML 5',
-      'CSS 3',
-      'FIGMA'
-  ],
-  BackEndTools = [
-      'Docker',
-      'Node js',
-      'Express',
-      'Testes',
-      'Sequelize',
-      'Mysql',
-      'mongoDB',
-      'Api'
-  ]
-  softSkills: [
-    'creativity',
-    'communication',
-    'empathy',
-    'team work',
-    'emotional intelligence',
-    'organization',
-  ]
-};
-const contactMe = () => ({
-  Linkedin: 'https://www.linkedin.com/in/vit%C3%B3ria-cstholanda/'
-  E-mail:vitoria.cst.contato@gmail.com
-});
-```
 
+## 📝 About:
+I'm a Full Stack Developer with over 2 years of experience building responsive, scalable, and high-performance web applications from prototype to production.
 
+💻 Technical Skills:
 
+Front-end: React, TypeScript, JavaScript, Redux, Context API, Tailwind CSS, Stencil
+
+Back-end: Node.js, Express, Python, FastAPI, RESTful APIs
+
+Databases: MySQL, MongoDB
+
+Others: Git, CI/CD, Agile (Scrum/Kanban), Retool integrations
+
+🎓 Graduate of Trybe, a full-time intensive full stack development program focused on hands-on learning and best coding practices.
+
+🚀 Experienced in working in agile teams, delivering high-quality features through clean code, collaboration, and continuous deployment.
 
 ## technology I learned
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
