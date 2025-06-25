@@ -1,8 +1,3 @@
-
-
-![Jornada da dev(1)](https://github.com/vitoriacst/vitoriacst/assets/86388276/2551b6dc-e10f-4d27-922c-52034cea4d17)
-
-## 🧑🏾‍🚀 My Journey
 I decided to join Trybe in the year 2021 in the month of November, during my operation in Systems Analysis and Development.
 deciding during this journey, to share a little of my trajectory on youtube, which has already been helping many people.
 I've always been very curious and creative, so the schedule fell in line with what I wanted for the rest of my life.
@@ -19,8 +14,6 @@ Back-end: Node.js, Express, Python, FastAPI, RESTful APIs
 Databases: MySQL, MongoDB
 
 Others: Git, CI/CD, Agile (Scrum/Kanban), Retool integrations
-
-🎓 Graduate of Trybe, a full-time intensive full stack development program focused on hands-on learning and best coding practices.
 
 🚀 Experienced in working in agile teams, delivering high-quality features through clean code, collaboration, and continuous deployment.
 
